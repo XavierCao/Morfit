@@ -257,7 +257,6 @@ public:
 	bool lastMustBeTip ;
 	bool lastMustBeNotTip; 
 
-
 	// for loop
 	bool brch0IsLoop ;
 
